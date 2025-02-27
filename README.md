@@ -31,4 +31,8 @@ Knobs:
 
 https://www.aliexpress.us/item/3256807011356288.html?spm=a2g0o.order_list.order_list_main.69.4b841802Pr1vyz&gatewayAdapt=glo2usa
 
+LCD
+
+https://www.aliexpress.us/item/2251832723901253.html?spm=a2g0o.order_list.order_list_main.249.4b841802Pr1vyz&gatewayAdapt=glo2usa
+
 ![roaster](https://github.com/chrissavage2300/Coffee-Roaster-V2/blob/main/20250221_132231.jpg?raw=true)
