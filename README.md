@@ -5,6 +5,8 @@ Parts not listed on BOM:
 
 Intake fan: BL4447-04W-B49
 
+https://www.aliexpress.us/item/2251800670595894.html?spm=a2g0o.order_list.order_list_main.29.4b841802Pr1vyz&gatewayAdapt=glo2usa
+
 Exhaust fan: 4090D 12V
 
 https://www.aliexpress.us/item/3256805403626998.html?spm=a2g0o.order_list.order_list_main.195.4b841802Pr1vyz&gatewayAdapt=glo2usa
